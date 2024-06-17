@@ -2,9 +2,9 @@
 
 This repository contains a GoLang-based chat application that allows users to communicate via chat rooms and direct messages. Users can run both the server and client components to connect to the chat system.
 
-## Usage
+## Usage Guidelines
 
-### Running the Application
+### (1) Running the Application
 
 #### Server:
 
@@ -22,13 +22,13 @@ Run the client using:
 go run .
 
 
-### Connecting to Public Chat Room
+### (2) Connecting to Public Chat Room
 
 Upon logging in, users are automatically connected to the public chat room.
 
 Type `/` for available commands.
 
-### Available Commands
+### (3) Available Commands
 
 - `/list`: Displays a list of available chat rooms.
 - `/join {room_name}`: Joins the specified chat room.
