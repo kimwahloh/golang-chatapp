@@ -1,0 +1,14 @@
+{
+ "rooms": [
+  {
+   "members": [],
+   "name": "ice"
+  },
+  {
+   "members": [
+    "kim"
+   ],
+   "name": "public"
+  }
+ ]
+}
