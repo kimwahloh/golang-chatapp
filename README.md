@@ -31,8 +31,8 @@ Type `/` for available commands.
 ### (3) Available Commands
 
 - `/list`: Displays a list of available chat rooms.
-- `/join {room_name}`: Joins the specified chat room.
-- `/leave {room_name}`: Leaves the specified chat room.
-- `/create {room_name}`: Creates a new chat room with the specified name.
-- `/dm {recipient} {message}`: Sends a direct message to the specified recipient.
+- `/join <room_name>`: Joins the specified chat room.
+- `/leave <room_name>`: Leaves the specified chat room.
+- `/create <room_name>`: Creates a new chat room with the specified name.
+- `/dm <recipient> <message>`: Sends a direct message to the specified recipient.
 - `/save`: Save message logs of the user.
